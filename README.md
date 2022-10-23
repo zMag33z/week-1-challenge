@@ -19,18 +19,18 @@ N/A
 
 Discusses how Horiseon can help a business grow through social influence.
 
-    !["Search Engine Optimization"](assets/images/SEO.png )
+![Search Engine Optimization](https://zmag33z.github.io/week-1-challenge/assets/images/SEO.png)
 
-    !["Online Reputation Management"](assets/images/ORM.png )
+![Online Reputation Management](https://zmag33z.github.io/week-1-challenge/assets/images/ORM.png)
 
-    !["Social Media Marketing"](assets/images/SMM.png )
+![Social Media Marketing](https://zmag33z.github.io/week-1-challenge/assets/images/SMM.png)
 
-    !["Benefits"](assets/images/BENEs.png )
+![Benefits](https://zmag33z.github.io/week-1-challenge/assets/images/BENEs.png)
 
 
 ## Credits
 
-Horiseon
+### [Horiseon](https://zmag33z.github.io/week-1-challenge/)
 
 ## License
 
