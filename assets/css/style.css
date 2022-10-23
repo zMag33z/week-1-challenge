@@ -1,52 +1,53 @@
+/*All elements have a border-box set at null.  Size of input will determine box.  All TEXT white.*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
     color: #ffffff;
 }
-
+/*Entire body background color.*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Top of page. All header elements to these standards.*/
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;  
 }
-
+/*Header 1: Horiseon.*/
 h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 48px;
     display: inline-block;
 }
-
-#BlkTxt {
-    color: #000000;
+/*Change color of 'seo' in Header: Horiseon.*/
+#ClrTxt {
+    color: #d9dcd6;
 }
-
+/*Float ul section to right.*/
 ul {  
     float: right;
 }
-
+/*Set all li to these standards.*/
 li {
     margin-top: 15px;
     margin-right: 20px;
-    margin-left: 5px;
+    margin-left: 7px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     display: inline-block;
 }
-
+/*Do not underline links please.*/
 a {
     text-decoration: none;
 }
-
+/*All paragraphs to these standards.*/
 p {
     font-size: 16px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-bottom: 32px;
 }
-
+/*Second section- Background image to certain size to create section.*/
 #hero {
     height: 800px;
     width: 100%;
@@ -55,30 +56,31 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     margin-bottom: 25px;
 }
-
+/*Container for third, fourth, and fifth sections of topics.*/
 #content {
-    width: 75%;
+    width: 76%;
     display: inline-block;
     margin-left: 20px;
+    
 }
-
+/*Topic Box*/
 #topic {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
 }
-
+/*Topic Headers.*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
+/*All images height.*/
 img {
     max-height: 200px; 
 }
-
+/*Section to the right.  Benefits box.*/
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,35 +90,34 @@ img {
     height: 100%;
     background-color: #2589bd;   
 }
-
+/*Benefits Headers*/
 h3 {
- 
-    margin-top: 2px;
+    margin-top: 20px;
     margin-bottom: 10px;
     text-align: center;
     display:block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-#smaller-img {
+/*Benefits images size other id.*/
+#img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
  }
-
+/*Bottom of page.*/
 footer {
     padding-top: 30px;
     text-align: center;      
 }
-
-#footer-h2 {
+/*Header2 other id.*/
+#h2 {
     margin-bottom: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
     color: black;  
 }
-
-#footer-p {
+/*Paragraph other id.*/
+#p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
 }
