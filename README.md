@@ -19,13 +19,13 @@ N/A
 
 Discusses how Horiseon can help a business grow through social influence.
 
-    ![Alt text](/assets/images/SEO.png?raw=true "Search Engine Optimization")
+    !["Search Engine Optimization"](assets/images/SEO.png )
 
-    ![Alt text](/assets/images/ORM.png?raw=true "Online Reputation Management")
+    !["Online Reputation Management"](assets/images/ORM.png )
 
-    ![Alt text](/assets/images/SMM.png?raw=true "Social Media Marketing")
+    !["Social Media Marketing"](assets/images/SMM.png )
 
-    ![Alt text](/assets/images/BENEs.png?raw=true "Benefits")
+    !["Benefits"](assets/images/BENEs.png )
 
 
 ## Credits
