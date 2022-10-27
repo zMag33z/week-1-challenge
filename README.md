@@ -34,4 +34,6 @@ Discusses how Horiseon can help a business grow through social influence.
 
 ## License
 
+### Download copy of license follow link below:
 ### [GNU GENERAL PUBLIC LICENSE:  Version 3, 29 June 2007](https://zmag33z.github.io/week-1-challenge/assets/license.md)
+
