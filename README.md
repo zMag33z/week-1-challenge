@@ -25,7 +25,9 @@ Discusses how Horiseon can help a business grow through social influence.
 
 ![Social Media Marketing](https://zmag33z.github.io/week-1-challenge/assets/images/SMM.png)
 
-<img src="./assets/images/BENEs.png" width="190" height="449" />
+![Benefits](https://zmag33z.github.io/week-1-challenge/assets/images/BENEs.png)
+
+<img src="./assets/images/BENEs.png" />
 
 
 ## Credits
